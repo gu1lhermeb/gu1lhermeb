@@ -1,6 +1,6 @@
 ### Opa, eu sou o Guilherme 👾
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Gbzzz&show_icons=true&theme=dracula&count_private=true)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gu1lhermeb&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que uso no dia a dia:
 
