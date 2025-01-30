@@ -15,7 +15,7 @@ class Skills extends Desenvolvedor {
   sistemaOperacional = 'linux';
 }
 
-class Contato extends Desenvolver {
+class Contato extends Desenvolvedor {
    email = 'guilhermebraz@gmail.com';
 }
 ```
