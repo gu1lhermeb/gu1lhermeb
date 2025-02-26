@@ -16,6 +16,6 @@ class Skills extends Desenvolvedor {
 }
 
 class Contato extends Desenvolvedor {
-   email = 'guilhermebraz@gmail.com';
+   email = 'guilhermebraz089@gmail.com';
 }
 ```
